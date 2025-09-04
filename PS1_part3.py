@@ -3,9 +3,9 @@
     File       : PS1_part3.py 
 
 
-    Name       : YOUR_NAME_HERE
-    GitHub User:   YOUR_USER_HERE
-    Collaboration Statement: YOUR_STATEMENT_HERE
+    Name       : Blase Persichetti
+    GitHub User:   bgp5126
+    Collaboration Statement: "I worked on this assignemnt alone"
 """
 
 #- YOUR WORK STARTS HERE  (TODO)
